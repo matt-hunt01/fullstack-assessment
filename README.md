@@ -1,5 +1,8 @@
 # liquidfish Developer Test
 
+## SETUP
+Form this repo to your personal github account and then email us that github link so we can review. 
+
 ## GOAL
 Working from a provided design, create a one page web project containing a responsive contact form that stores the submitted input to a database and emails that input to an email address. Please provide database migrations to create the database.  We will provide the SMTP credentials. 
 
