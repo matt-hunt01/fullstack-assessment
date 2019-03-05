@@ -11,7 +11,7 @@ The code must be cross-browser compatible.
 
 
 ## INCLUDED ASSETS AND ENVIRONMENT INFO
-1-Form.png - This is the initial style of the form
-2-Error.png - This shows the error message 
-3-Success.png - This shows the success message that needs to be displayed
-mail-icon.svg - The mail svg icon that is shown in the success screen
+1-Form.png - This is the initial style of the form  
+2-Error.png - This shows the error message   
+3-Success.png - This shows the success message that needs to be displayed  
+mail-icon.svg - The mail svg icon that is shown in the success screen  
