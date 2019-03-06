@@ -5,7 +5,7 @@ Fork this repo to your personal github account and then email us that github lin
 
 ## GOAL
 Working from a provided design, create a one page Laravel web project containing a responsive contact form that stores the submitted input to a database and emails that input to an email address.  
-Please provide database migrations to create the database.   
+Please provide database migrations to create the database and any environment variables.   
 We will provide the SMTP credentials. 
 
 
